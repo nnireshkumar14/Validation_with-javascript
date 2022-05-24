@@ -26,9 +26,7 @@ body {
 
 .container {
     
-    background-image: url("https://i.makeagif.com/media/10-14-2017/2QKyUm.gif");
-    background-size: cover;
-    height: 100vh;
+    background-color:navy;
 }
 
 .form {
